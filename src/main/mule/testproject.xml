@@ -6,5 +6,6 @@
 	<flow name="testprojectFlow" doc:id="a625cb52-939d-4959-8d24-3d0df1f8465e" >
 		<logger level="INFO" doc:name="Logger" doc:id="6e04e6da-92b3-4f91-a93a-ff5588e136a6" message='"newproject"'/>
 		<logger level="INFO" doc:name="Logger" doc:id="7b6953e8-da5c-4e40-8a18-efc7d57f92f4" message='#["second logger"]'/>
+		<logger level="INFO" doc:name="Logger" doc:id="8438a287-da0f-44b4-90ac-57690500a07f" message='"Third logger"'/>
 	</flow>
 </mule>
